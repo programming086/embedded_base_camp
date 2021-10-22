@@ -1,4 +1,5 @@
 # C/Embedded BaseCamp
 
 ## Workshops
-[01_Hello_World](01_workshop)
+1. [Hello World](01_workshop)
+2. [LEDs and Buttons](02_workshop)
