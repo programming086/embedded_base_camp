@@ -11,7 +11,13 @@ local.properties
 .loadpath
 .recommenders
 
+# Remove build target generated folders
 Debug/
+Test/
+Release/
+
+# STM32 git ignore
+*.mxproject
 
 # External tool builders
 .externalToolBuilders/
