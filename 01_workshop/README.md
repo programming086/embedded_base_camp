@@ -9,4 +9,5 @@
 [demo.mov](demo.mov)
 
 ### Logic analyzer
-[hello_world_data.logicdata](hello_world_data.logicdata)
+[hello_world_data.logicdata Logic 1.x](hello_world_data.logicdata)
+[hello_world_data.sal Logic 2.x](hello_world_data.sal)
